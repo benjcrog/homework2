@@ -31,7 +31,8 @@ div{
 
 #red{
 	color: #FFFFFF;
-	background-color: #FC0107; 
+	font-size: 28;
+	background-color: #B20A09; 
 	text-align: right;
 	display: block;
 }
